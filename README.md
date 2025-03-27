@@ -1,2 +1,4 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Name:Mithran
+Age=19
+Major=Computer Science
